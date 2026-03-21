@@ -1,4 +1,4 @@
-# FastAPI Medical Appointment System
+# 🩺 FastAPI Medical Appointment System
 
 A backend project built using **FastAPI** as part of my internship training at **Innomatics Research Labs**. This project simulates a real-world **medical appointment booking system** where patients can explore doctors, book appointments, manage appointment status, and access doctor and appointment data using filtering, search, sorting, and pagination.
 
@@ -89,8 +89,8 @@ fastapi-medical-appointment-system/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
-## ▶️ How to Run the Project
+```
+▶️ How to Run the Project
 
 ### 1. Install dependencies
 ```bash
