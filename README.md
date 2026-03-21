@@ -90,7 +90,7 @@ fastapi-medical-appointment-system/
 ├── requirements.txt
 └── README.md
 ```
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 ### 1. Install dependencies
 ```bash
