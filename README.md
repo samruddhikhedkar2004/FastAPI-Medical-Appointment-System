@@ -14,7 +14,7 @@ This project was developed to apply all major FastAPI concepts learned during tr
 - Multi-step workflows
 - Search, sorting, and pagination
 
-## Core Features
+## 📌 Core Features
 
 ### Doctor Management
 - View all doctors
@@ -54,7 +54,7 @@ The project follows a structured appointment lifecycle:
 
 This multi-step workflow reflects a realistic backend process for appointment handling.
 
-## Business Logic
+## 🧠 Business Logic
 
 A key part of the system is the consultation fee calculation logic.
 
@@ -72,7 +72,7 @@ The system stores both:
 
 This keeps the billing process transparent and easy to understand.
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 - **Python**
 - **FastAPI**
@@ -80,7 +80,7 @@ This keeps the billing process transparent and easy to understand.
 - **Uvicorn**
 - **Swagger UI**
 
-## Project Structure
+## 📂 Project Structure
 
 ```bash
 fastapi-medical-appointment-system/
