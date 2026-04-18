@@ -109,6 +109,6 @@ http://127.0.0.1:8000/docs
 
 > This will open Swagger UI where all endpoints can be tested interactively.
 
-## Conclusion
+## ⭐ Conclusion
 
 Working on this project gave me hands-on experience in building a complete backend system using **FastAPI**, from designing APIs to managing real application workflows. The **Medical Appointment System** helped me combine technical concepts like CRUD operations, validation, and advanced API features into one practical project.
